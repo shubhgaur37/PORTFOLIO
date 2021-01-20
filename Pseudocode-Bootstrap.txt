@@ -1,0 +1,5 @@
+1)Nav Bar needs to be centered for the xs screen.
+2) About Me needs to be in one row for the xs screen.
+3) Image has to be resized for the xs screen.
+4) Footer has to not be in the fixed position for the xs screen.
+5) Background image needs to appear correctly onsite.
